@@ -61,6 +61,15 @@ The final stage involves analyzing the image and decoding the hidden content.
 
 ---
 
+
+## 6. ZIP Password
+
+```bash
+hackthebox
+```
+
+---
+
 ## References
 
 No external references were used in the creation of this document.
